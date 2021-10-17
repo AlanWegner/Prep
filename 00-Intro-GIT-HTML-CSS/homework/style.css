@@ -1,5 +1,8 @@
-h1 {color: rgb(7, 204, 171);}
-img {width: 400px;}
+h1 {color: rgb(38, 138, 121);}
+img {
+    width: 400px;
+    height: 250px
+}
 #thirdDiv {
     height: 600px;
     width: 500px;
@@ -10,4 +13,7 @@ img {width: 400px;}
 #spanId {
     font-size: 25px;
     margin: 50px;
+}
+body {
+    background: url(maderatexturada.jpg);
 }
